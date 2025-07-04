@@ -1,0 +1,2 @@
+# small-script
+good
